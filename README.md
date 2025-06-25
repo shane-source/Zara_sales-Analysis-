@@ -6,7 +6,7 @@ Compared revenue by section, item type, and promotion
 Used window functions (RANK, LAG, LEAD) for advanced insights
 Cleaned and prepared data using SQL for accurate reporting
 Visualized trends using an interactive Power BI dashboard
-📊 Tools: SQL, Power BI
+📊 Tools: SQL, Power BI,python pandas
 📁 Dataset: Zara Sales Dataset (from Kaggle)
 
 
